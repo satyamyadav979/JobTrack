@@ -142,7 +142,7 @@ const styles = StyleSheet.create({
         marginTop: 'auto',
     },
     getStartedButton: {
-        backgroundColor: colors.card,
+        backgroundColor: colors.secondary,
         marginBottom: 12,
     },
     loginButton: {
